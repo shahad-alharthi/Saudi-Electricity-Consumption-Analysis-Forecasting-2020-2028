@@ -40,6 +40,11 @@ Data was gathered and engineered from trusted official sources:
 * `#Saudi_Electricity_SQL_Forecast_2028.xlsx`
 * `#Saudi_Electricity_Consumption_Analysis_&_Forecasting_2020_2028.pbix`
 
+  
+## 🖼️ Dashboard Preview
+* #1Dashboard.png
+* #2Dashboard.png
+
 ---
 
 ## 📫 Contact
